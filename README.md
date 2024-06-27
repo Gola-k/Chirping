@@ -7,9 +7,9 @@ Chirping is a platform which treats every user equally in the beginning and as y
 
 Chirping would've been better if it had its token to distribute to the users to gain utility and meaning in the crypto market. But since I am new to tokenomics and have to protect my dapp from various attacks, I did not involve any tokenomics into the dapp. The challenges I ran into were the developing of smart contract, defining levels, conditions and organising an interesting flow for the users.
 
-# TECHNOLOGIES USED
+# Techologies Used
 
-SOLIDITY IPFS JAVASCRIPT FIGMA  REMIX IDE REACT.JS MORALIS
+SOLIDITY, IPFS, JAVASCRIPT, FIGMA,  REMIX IDE, REACT.JS, MORALIS
 
 # Getting Started with Create React App
 
