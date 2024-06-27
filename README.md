@@ -1,3 +1,16 @@
+# The problem Chirping solves
+
+Chirping is a social media with a blend of gamification. In Web2 and Web3 both, social media dapps or apps are in control of a centralised authority and many a times it is seen that the central authority removes a post of a user without his/her concern. In today's social media you'll see many celebrities or rich users buy bots or followers even though they don't deserve, which makes the race of gaining followers or popularity dirty.
+Chirping is a platform which treats every user equally in the beginning and as you get engaged and start posting valuable stuff on the platform which is liked by other users you gain abilities and features by getting promoted to a next level.
+
+# Challenges I ran into
+
+Chirping would've been better if it had its token to distribute to the users to gain utility and meaning in the crypto market. But since I am new to tokenomics and have to protect my dapp from various attacks, I did not involve any tokenomics into the dapp. The challenges I ran into were the developing of smart contract, defining levels, conditions and organising an interesting flow for the users.
+
+# TECHNOLOGIES USED
+
+SOLIDITY IPFS JAVASCRIPT FIGMA  REMIX IDE REACT.JS MORALIS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
